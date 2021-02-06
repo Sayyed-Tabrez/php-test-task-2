@@ -1,0 +1,8 @@
+action:store_details
+reimbursement_type:Hotel
+reimbursement_date:2021-02-01
+to_date:2021-01-02
+from_date:2021-01-10
+hotel_name:Taj Mumbai
+invno:testing invoc
+amount:100

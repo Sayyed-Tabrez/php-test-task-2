@@ -1,0 +1,12 @@
+action:store_details
+reimbursement_type:Conveyance
+reimbursement_date:2021-01-01
+from:dadar
+to:kurla
+purpose:Training
+purpose_desc:
+mode:Bike
+mode_desc:
+km:10
+invno:testing invoc
+amount:100

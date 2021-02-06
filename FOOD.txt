@@ -1,0 +1,5 @@
+action:store_details
+reimbursement_type:Food
+reimbursement_date:2021-02-01
+invno:testing invoc
+amount:100

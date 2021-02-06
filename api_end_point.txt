@@ -1,0 +1,5 @@
+http://localhost/task2/reimbursement.php (post method)
+
+http://localhost/task2/reimbursement.php?action=fetch_date_wise&month=02&year=2021
+
+http://localhost/task2/reimbursement.php?action=reimbursement_wise_data&type=Mobile
